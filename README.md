@@ -45,12 +45,12 @@ To run this project, ensure you have the following installed:
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/goodlandtech/GT-React-Python-Template.git
+   git clone https://github.com/goodlandtech/GT-React-Javascript-Template.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd GT-React-Python-Template
+   cd GT-React-Javascript-Template
    ```
 
 ### Setting up Environment Variables
