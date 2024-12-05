@@ -1,5 +1,5 @@
 
-# GT-REACT-PYTHON-TEMPLATE
+# GT-REACT-NODE-TEMPLATE
 
 This project is a fullstack application with a **React frontend** and a **Python backend**, orchestrated using **Docker Compose**.
 
